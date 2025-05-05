@@ -1,0 +1,12 @@
+.container2{
+    display: flex; /* Aktiverar flexbox */
+    gap: 1em; /* Skapar mellanrum mellan bilderna */
+    justify-content: center;
+}
+
+.storlek{
+    font-size: 0.7em;
+}
+body{
+font-family: serif;
+}

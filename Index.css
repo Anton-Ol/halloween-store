@@ -1,0 +1,44 @@
+
+.bild {
+    width:20em;
+    height:auto;
+}
+.storlek {
+    width: 10em;
+    height: auto;
+}
+.carousel-inner {
+    max-width: 100vw;
+    display:flex;
+    justify-content: left;
+    border-radius: 3px;
+    border-color: darkslategrey;
+}
+.carousel caption {
+
+max-width: 50vw;
+color: darkslategrey
+
+}
+.carousel img {
+    max-width: 100vw;
+    border-radius: 3px;
+    border-color:darkslategrey;
+}
+
+body{
+    background-image: url(https://images.hdqwalls.com/wallpapers/horror-pumpkins-halloween-4k-jf.jpg);
+    background-size: cover;
+}
+.card-body{
+background-color: darkgrey;
+}
+.btn-primary{
+    background-color:#8B4513;
+    
+  
+}
+.btn-primary:hover{
+    text-decoration: none;
+    background-color: #8A2BE2;
+}
