@@ -44,3 +44,17 @@ img {
     margin:0;
   }
 
+  .container4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.contrast{
+  
+    width: 20em;
+    height: auto;
+    background-color: rgb(121, 121, 194,0.5);
+   
+  
+}
