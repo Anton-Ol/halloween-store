@@ -11,7 +11,14 @@ body{
     background-image: url(https://images.hdqwalls.com/wallpapers/horror-pumpkins-halloween-4k-jf.jpg);
     background-size: cover;
     font-family: serif;
+  
+    text-shadow: 1px 1px 1px #3d014b,
+    2px 2px 1px #3d014b;
+    
+  
+
 }
+   
 
 
 
@@ -54,7 +61,24 @@ img {
   
     width: 20em;
     height: auto;
-    background-color: rgb(121, 121, 194,0.5);
+   
    
   
+}
+
+.färgfan{
+    color: #ff7f32;
+}
+
+
+a {
+    text-decoration: none;
+    
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+  .storlek{
+    font-size: 0.7em;
 }

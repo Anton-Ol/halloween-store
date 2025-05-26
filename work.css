@@ -1,3 +1,6 @@
+
+
+
 .container2{
     display: flex; /* Aktiverar flexbox */
     gap: 1em; /* Skapar mellanrum mellan bilderna */
@@ -5,8 +8,59 @@
 }
 
 .storlek{
-    font-size: 0.7em;
+    font-size: 0.5em;
 }
+
+h1 {
+    font-size: 4em;
+    padding-bottom: 0.5em;
+    font-family: creepsville;
+    text-shadow: 2px 2px 4px #FF7F32;
+}
+
+p {
+    max-width: 60ch;
+    font-size: 1.5em;;
+   
+}
+
+
+
 body{
-font-family: serif;
+    background-image: url(https://images.hdqwalls.com/wallpapers/horror-pumpkins-halloween-4k-jf.jpg);
+    font-family: serif;
 }
+img {
+    border-radius: 1em;
+    max-width: 25em;
+    
+}
+
+@font-face {
+    font-family: creepsville;
+    src: url("creepsville.ttf");
+}
+
+.logga {
+    width: 3em;
+    height: auto;
+}
+
+
+main{
+    font-size: 12px;
+    background: rgba(192, 192, 192, 0.94);
+    max-width: 85%;
+    margin: 0 auto;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    border-radius: 2em;
+    scale: 90%;
+}
+ 
+
+
+
+
+
+ 
