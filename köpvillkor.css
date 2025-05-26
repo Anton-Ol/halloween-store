@@ -1,9 +1,12 @@
  body {
-    font-family: Arial, sans-serif;
+   
     background-color: #1a1a1a;
     color: #f2f2f2;
     margin: 0;
     padding: 20px;
+    font-family: serif;
+
+   
 }
 .containers {
     max-width: 800px;
@@ -34,3 +37,8 @@ a {
 .containers a:hover {
     text-decoration: underline;
 }
+
+.storlek{
+    font-size: 0.7em;
+    
+  }
